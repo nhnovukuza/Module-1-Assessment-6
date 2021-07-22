@@ -6,14 +6,14 @@ h1{
     text-align: justify;
     font-size: x-large;
     font-style:oblique;
-    color:Black;
+    color:black;
 }
 h2{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     font-size: 30px;
     color:cadetblue;
-    font-style: Black;
+    font-style: Italic;
 }
 
 h4{
@@ -39,25 +39,11 @@ p{
 }
 
 #menu a{
-    color:#ffffff;
+    color: black;
     font-family: Helvetica, sans-serif;
     font-size: 18px;
-    text-decoration:Black;
+    text-decoration:black;
 }
-
-
-#menu a{
-    color:#ffffff;
-    font-family: Helvetica, sans-serif;
-    font-size: 18px;
-    text-decoration:none;
-    font-weight: 800px;
-    
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-
 
 body{
     background-color: rgb(161, 218, 218);
