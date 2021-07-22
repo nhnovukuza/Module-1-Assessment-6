@@ -34,8 +34,24 @@ p{
     padding-top: 12px;
 }
 
+#menu a:hover{
+    color: #5077bd;
+}
+
+#menu{
+    width:100%;
+    height:40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
 #menu a{
     color:#ffffff;
     font-family: Helvetica, sans-serif;
     font-size: 18px;
     text-decoration::orchid;
+}
+body{
+    background-color: rgb(161, 218, 218);
+}
+
