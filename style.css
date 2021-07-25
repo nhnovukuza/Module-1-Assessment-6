@@ -45,6 +45,15 @@ p{
     text-decoration:black;
 }
 
+table {
+    border-spacing: 1px;
+  }
+
+  table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+  } 
+
 body{
     background-color: rgb(161, 218, 218);
 }
